@@ -1,0 +1,62 @@
+:root {
+    --text-color: #b0bec5;
+    --title-color: #4db6ac;
+    --link-color: #80cbc4;
+    --link-hover-color:#b2dfdb;
+    --background-color: #263238
+}
+
+body {
+    background-color: var(--background-color);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--text-color)
+}
+
+article {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: var(--link-color)
+}
+a:hover {
+    color: var(--link-hover-color)
+}
+
+h1,h2,h3,h4,h5 {
+    color: var(--title-color)
+}
+
+strong {
+    color: var(--title-color)
+}
+
+chess-board {
+    --dark-color: #455a64;
+    --light-color: #90a4ae;
+    display: block;
+    width: 360px;
+    height: 360px;
+    margin: 0 auto;
+}
+
+figure {
+    margin: 0%;
+    padding: 0%;
+}
+
+figcaption {
+    font: italic smaller sans-serif;
+    text-align: center;
+    padding: 5px;
+}

@@ -1,0 +1,25 @@
+title: Fundamentos del Ajedrez - Capablanca
+
+plugins:
+  - jekyll-feed
+#  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# default excludes
+exclude:
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+
+# overrides your excluded items configuration and the default include array ([".htaccess"])
+include:
+  - .htaccess
+  - node_modules/uglifier/index.js
