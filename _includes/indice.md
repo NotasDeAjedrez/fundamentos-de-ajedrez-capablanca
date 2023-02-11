@@ -13,3 +13,6 @@
     * **[Capítulo 2 - Otros principios para el final de partida](#capítulo-2---otros-principios-para-el-final-de-partida)**
         * [9. Un principio cardinal](#9-un-principio-cardinal)
         * [10. Un final clásico](#10-un-final-clásico)
+        * [11. Obtención de un peón pasado](#11-obtención-de-un-peón-pasado)
+        * [12. Como llegar a discernir cual de los dos peones deberá ser coronado en primer término ](#12-como-llegar-a-discernir-cual-de-los-dos-peones-deberá-ser-coronado-en-primer-término)
+        * [13. La oposición](#13-la-oposición)

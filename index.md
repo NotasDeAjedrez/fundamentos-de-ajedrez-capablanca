@@ -64,3 +64,16 @@ Maquetación web: DEYBIS MELENDEZ VARGAS (Trabajo en proceso)
 {% include 10-un-final-clasico.md %}
 
 ---
+
+{% include 11-obtencion-de-un-peon-pasado.md %}
+
+---
+
+{% include 12-como-llegar-a-discernir.md %}
+
+---
+
+
+{% include 13-la-oposicion.md %}
+
+---
