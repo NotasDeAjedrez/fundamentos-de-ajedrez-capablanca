@@ -5,23 +5,6 @@ con alfil y caballo, y luego como se gana con dama contra torre.
 
 <figure>
     <chess-board
-        position="4k3/p1pn1p2/8/8/8/8/2P2P1P/2B1K3 w - - 0 1"
-        orientation="white">
-    </chess-board>
-    <figcaption>
-    <a href="https://lichess.org/analysis/4k3/p1pn1p2/8/8/8/8/2P2P1P/2B1K3_w_-_-_0_1?color=white">Tablero de análisis</a>
-    <br>
-    Juegan las blancas
-    </figcaption>
-</figure>
-
-***Con alfil y caballo el mate sólo puede darse en los rincones cuya casilla angular
-sea del mismo color que aquellas que domina el alfil.***
-
-### Ejemplo 39
-
-<figure>
-    <chess-board
         position="4k3/8/8/8/8/8/8/2B1K1N1 w - - 0 1"
         orientation="white">
     </chess-board>
@@ -31,6 +14,11 @@ sea del mismo color que aquellas que domina el alfil.***
     Juegan las blancas
     </figcaption>
 </figure>
+
+***Con alfil y caballo el mate sólo puede darse en los rincones cuya casilla angular
+sea del mismo color que aquellas que domina el alfil.***
+
+### Ejemplo 39
 
 En la posición ejemplificada en el diagrama precedente tenemos
 que dar mate ya sea en a1 o h8. El final puede ser dividido en dos partes. La primera
