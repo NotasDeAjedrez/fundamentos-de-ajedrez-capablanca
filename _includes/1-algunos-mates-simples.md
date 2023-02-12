@@ -8,7 +8,9 @@ algunos de los mates más simples.
 
 ## 1. Algunos mates simples
 
-### Ejemplo 1°.- Mate de torre y rey contra rey.
+### Ejemplo 1
+
+#### Mate de torre y rey contra rey.
 
 La regla consiste en llevar al rey adversario hasta el borde, en cualquier lado del
 tablero.
@@ -45,7 +47,9 @@ Rd6 Rf8 (el rey negro será, por último, forzado a colocarse frente al rey blan
 mate se conseguirá por medio de Ta8) 7. Re6 Rg8 8. Rf6 Rh8 9. Rg6 Rg8 10. Ta8
 mate.
 
-### Ejemplo 2°.- Mate de torre y rey contra rey.
+### Ejemplo 2
+
+#### Mate de torre y rey contra rey.
 
 <figure>
     <chess-board
@@ -79,7 +83,9 @@ se presente, en menos de veinte. Aunque resulte una tarea monótona, es muy
 conveniente para el iniciado practicar muchas veces estas posiciones, hasta conseguir
 dominarlas sin esfuerzo.
 
-### Ejemplo 3°.- Mate de rey y dos alfiles contra rey.
+### Ejemplo 3
+
+#### Mate de rey y dos alfiles contra rey.
 
 Ya que el rey negro se halla ubicado en uno de los ángulos del tablero, las blancas
 pueden jugar **1. Ad3 Rg7 2. Ag5 Rf7 3. Af5** y tenemos que al adversario le restan
@@ -129,7 +135,9 @@ campo de lucha. No obstante, en todos estos finales no tiene mayor importancia q
 el rey negro sea forzado a retirarse a la última fila o a la última columna del tablero.
 Por ejemplo, tanto valdría obligarlo a colocarse en las casillas **h5, a4, e1 o d8**.
 
-### Ejemplo 4°.- Mate con rey y dama contra rey.
+### Ejemplo 4
+
+#### Mate con rey y dama contra rey.
 
 Como la dama suma el poder de acción de torre y alfil combinados; resulta que estamos en presencia del más fácil de todos los mates; en este caso debería siempre obtenerse en menos de diez jugadas.
 

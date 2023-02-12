@@ -4,7 +4,7 @@ En aquellos casos en que se trata de dos peones pasados, o que puedan llegar a
 conseguir tal condición para llegar a coronarse, se debe buscar, contando los tiempos,
 cuál de los peones llegará a la meta en primer término.
 
-### Ejemplo 25°.-
+### Ejemplo 25
 
 <figure>
     <chess-board

@@ -77,3 +77,11 @@ Maquetación web: DEYBIS MELENDEZ VARGAS (Trabajo en proceso)
 {% include 13-la-oposicion.md %}
 
 ---
+
+{% include 14-del-valor-relativo-del-caballo-y-el-alfil.md %}
+
+---
+
+{% include 15-mate-de-alfil-y-caballo.md %}
+
+---

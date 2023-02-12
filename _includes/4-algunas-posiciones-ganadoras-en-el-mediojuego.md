@@ -7,7 +7,7 @@ dedicaremos algún tiempo a examinar posiciones que a menudo se presentan en la
 partida viva, y que le darán al estudiante una idea de las bellezas de nuestro juego, en
 las que podrá deleitarse en cuanto se halle más familiarizado con sus secretos.
 
-### Ejemplo 11°
+### Ejemplo 11
 
 <figure>
     <chess-board
@@ -30,7 +30,7 @@ amenaza:
 El mismo tipo de combinación puede conseguirse como resultado de una posición
 algo más complicada.
 
-### Ejemplo 12°
+### Ejemplo 12
 
 <figure>
     <chess-board
@@ -61,7 +61,7 @@ diferencia de material: dama y alfil contra torre y alfil.
 Estos dos ejemplos demuestran el peligro que encierra avanzar el peón g una
 casilla, después de efectuado el enroque corto.
 
-### Ejemplo 13°
+### Ejemplo 13
 
 <figure>
     <chess-board
@@ -84,7 +84,7 @@ Forzado, pues de lo contrario seguiría Dxh7 mate.
 
 **2. Dg3+ Rh8 3. Axf6 mate**
 
-#### Ejemplo 14°
+#### Ejemplo 14
 
 <figure>
     <chess-board
@@ -107,7 +107,7 @@ atacada.
 
 **2. Cf6+ gxf6 3. Tg3+ Rh8 4. Axf6 mate.**
 
-### Ejemplo 15°.-
+### Ejemplo 15
 
 Una clase de combinación muy frecuente se demuestra en la posición del diagrama siguiente:
 
@@ -133,7 +133,7 @@ Si 1. … Rh8 2. Dh5 g6 3. Dh6 y ganan.
 Las negras no pueden evitar el mate en h7 si no sacrifican su dama jugando De4,
 lo que da a las blancas la ventaja de dama contra torre.
 
-### Ejemplo 16°.-
+### Ejemplo 16
 
 Este mismo tipo de combinación se observa en una forma más complicada en la posición que sigue:
 

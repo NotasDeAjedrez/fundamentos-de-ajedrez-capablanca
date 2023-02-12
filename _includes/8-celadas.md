@@ -4,7 +4,7 @@ Daremos ahora algunas pocas posiciones o celadas que deben evitarse en las
 aperturas, y en las cuales, como lo demuestra la experiencia, caen a menudo los
 principiantes.
 
-### Ejemplo 20°
+### Ejemplo 20
 
 <figure>
     <chess-board
@@ -28,7 +28,7 @@ Las negras Debían haber retomado con el peón.
 Legall», debido a un jugador francés, Legall de Kermeur (1702-1792),
 maestro de Philidor. Scalise]
 
-### Ejemplo 21°
+### Ejemplo 21
 
 <figure>
     <chess-board

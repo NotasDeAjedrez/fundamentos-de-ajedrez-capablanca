@@ -8,7 +8,7 @@ salida de la dama y uno de los alfiles. Por consiguiente, hablando en tesis gene
 desde el punto de vista puramente teórico, cualquiera de estas dos jugadas debe ser la
 mejor, teniendo en cuenta que ninguna otra trae aparejadas tales ventajas.
 
-### Ejemplo 17°.-
+### Ejemplo 17
 
 Supongamos el siguiente comienzo:
 

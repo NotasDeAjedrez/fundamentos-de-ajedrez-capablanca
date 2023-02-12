@@ -4,7 +4,7 @@ En aquellos casos en que tres o más peones se oponen los unos a los otros en
 posiciones similares a la que damos, en el ejemplo 24 siempre existe una posibilidad,
 para uno de los dos bandos en lucha, de conseguir un peón pasado.
 
-### Ejemplo 24°.-
+### Ejemplo 24
 
 <figure>
     <chess-board

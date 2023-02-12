@@ -13,7 +13,7 @@ movidas en consonancia con los principios generales. El estudiante podrá así
 acostumbrarse a razonar sin ayuda, y llegar con menores dificultades a encontrar la
 solución, al enfrentarse a una nueva y difícil situación.
 
-### Ejemplo 18°
+### Ejemplo 18
 
 **1. e4 e5 2. Cf3 d6**
 Una jugada tímida. Las negras asumen una actitud defensiva desde el comienzo.
@@ -61,7 +61,7 @@ respecto; pero, a la altura en que nos hallamos en este libro, no es conveniente
 en discusiones puramente técnicas, que el aficionado se hallará en mejores
 condiciones de comprender cuando esté más capacitado para ello.
 
-### Ejemplo 19°
+### Ejemplo 19
 
 **1. e4 e5 2. Cf3 d6 3. d4 Ag4**
 Mala jugada que viola uno de los principios ya establecidos, de acuerdo con el

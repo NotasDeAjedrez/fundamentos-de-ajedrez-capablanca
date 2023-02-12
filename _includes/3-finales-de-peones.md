@@ -8,7 +8,7 @@ como guía, y el resto es necesario que lo enseñe un profesor, y, en caso contr
 aficionado deberá realizar una y otra vez, con larga y amarga experiencia, la
 aplicación práctica de muchas de las reglas explicadas en esta obra.
 
-### Ejemplo 7°
+### Ejemplo 7
 
 <figure>
     <chess-board
@@ -34,7 +34,7 @@ Si 3. … Rg8 4. f7+ Rh8 5. f8=D mate.
 
 **4. Rf7 f5 5. g7+ Rh7 6. g8=D+ Rh6 7. Dg6 mate.**
 
-### Ejemplo 8°
+### Ejemplo 8
 
 <figure>
     <chess-board
@@ -86,7 +86,7 @@ demostrarle, asimismo, la imprescindible necesidad de dedicar toda su atención 
 estos detalles elementales que, en realidad constituyen el verdadero andamiaje en que
 se sustenta la maestría ajedrecística.
 
-### Ejemplo 9°
+### Ejemplo 9
 
 <figure>
     <chess-board
@@ -118,7 +118,7 @@ final parecido a otro anteriormente estudiado.
 Continuando con g6, conseguiremos una posición básica como la del ejemplo Nº7. Si las negras respondieran a este golpe con g6, entonces por medio de hxg6, hxg6
 y f6+ llegaríamos a un resultado idéntico.
 
-### Ejemplo 10°
+### Ejemplo 10
 
 <figure>
     <chess-board

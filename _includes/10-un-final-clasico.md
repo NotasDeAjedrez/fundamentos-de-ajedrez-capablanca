@@ -1,6 +1,6 @@
 ## 10. Un final clásico
 
-### Ejemplo 23°.-
+### Ejemplo 23
 
 <figure>
     <chess-board

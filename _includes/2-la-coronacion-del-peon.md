@@ -9,7 +9,7 @@ casilla, por lo menos, que lo separe del mismo***.
 Si el rey contrario se halla directamente enfrente del peón, la partida no podrá
 ganarse. Esto se demostrará de la mejor manera en los ejemplos que siguen.
 
-### Ejemplo 5°.-
+### Ejemplo 5
 
 <figure>
     <chess-board
@@ -47,7 +47,7 @@ aplicados más adelante y asimismo, a causa de que muchos jugadores han perdido 
 partidas en posiciones idénticas, por ignorarlos. A esta altura no puedo insistir
 demasiado en ellos, no obstante su trascendencia.
 
-### Ejemplo 6°.-
+### Ejemplo 6
 
 En la siguiente posición, las blancas ganan a causa de que su rey se halla ubicado
 delante del peón y separado del mismo por una casilla intermedia.

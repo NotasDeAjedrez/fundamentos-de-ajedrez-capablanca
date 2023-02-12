@@ -5,7 +5,7 @@ en una posición similar a la que nos enseña el diagrama siguiente, en tal form
 adversario se halle forzado a jugar y dejar espacio libre, ha obtenido la ventaja que se
 denomina la oposición.
 
-### Ejemplo 26°.-
+### Ejemplo 26
 
 <figure>
     <chess-board
@@ -76,7 +76,7 @@ En todas las formas simples de la oposición, ***cuando los reyes se hallan ubic
 en la misma línea y el número de casillas intermedias es par, el jugador que tiene la
 movida, tiene también la oposición***.
 
-### Ejemplo No. 27°.-
+### Ejemplo No. 27
 
 <figure>
     <chess-board
@@ -138,7 +138,7 @@ Esto nos conduce de nuevo a la posición de la primera variante que hemos
 estudiado. No nos cansaremos de repetir que el aficionado debe manipular una y otra vez y por sí mismo los reyes, en todos los ejemplos de la oposición, ya que ella
 significa, a menudo el triunfo o la derrota en una partida.
 
-### Ejemplo 28°.-
+### Ejemplo 28
 
 La siguiente posición constituye una prueba excelente del valor de
 la oposición como arma defensiva.

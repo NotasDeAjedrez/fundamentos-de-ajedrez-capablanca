@@ -33,7 +33,7 @@ estudiante debe tener siempre presente este principio, pues nunca será demasiad
 atención que le dedique. Puede ser aplicada en muchas ocasiones y constituye una de
 las principales armas en manos de un maestro.
 
-### Ejemplo 22°.-
+### Ejemplo 22
 
 El ejemplo que hemos dado es tan claro que podría resultar de por
 si suficiente. A continuación daremos algunas movidas de la variante principal:
