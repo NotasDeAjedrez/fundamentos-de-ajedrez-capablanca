@@ -14,7 +14,7 @@ sólida.
         orientation="white">
     </chess-board>
     <figcaption>
-    <a href="https://lichess.org/analysis/rn1qkbnr/8/p5p1/7p/6k1/8/7K/PP5P/8_w_-_-_0_1?color=white">Tablero de análisis</a>
+    <a href="https://lichess.org/analysis/8/p5p1/7p/6k1/8/7K/PP5P/8_w_-_-_0_1?color=white">Tablero de análisis</a>
     <br>
     Juegan las blancas
     </figcaption>
