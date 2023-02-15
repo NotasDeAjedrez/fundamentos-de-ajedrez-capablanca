@@ -57,3 +57,7 @@
             * [Ejemplo 38](#ejemplo-38)
         * [15. Mate de alfil y caballo](#15-mate-de-alfil-y-caballo)
             * [Ejemplo 39](#ejemplo-39)
+        * [16. Dama contra torre](#16-dama-contra-torre)
+            * [Ejemplo 40](#ejemplo-40)
+            * [Ejemplo 41](#ejemplo-41)
+            * [Ejemplo 42](#ejemplo-42)

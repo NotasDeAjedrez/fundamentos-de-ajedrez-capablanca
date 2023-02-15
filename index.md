@@ -85,3 +85,7 @@ Maquetación web: DEYBIS MELENDEZ VARGAS (Trabajo en proceso)
 {% include 15-mate-de-alfil-y-caballo.md %}
 
 ---
+
+{% include 16-dama-contra-torre.md %}
+
+---
