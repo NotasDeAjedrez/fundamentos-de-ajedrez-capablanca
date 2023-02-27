@@ -89,3 +89,15 @@ Maquetación web: DEYBIS MELENDEZ VARGAS (Trabajo en proceso)
 {% include 16-dama-contra-torre.md %}
 
 ---
+
+{% include 17-ataques-sin-ayuda-de-los-caballos.md %}
+
+---
+
+{% include 18-ataque-con-los-caballos-como-fuerza-prominente.md %}
+
+---
+
+{% include 19-forma-de-obtener-el-triunfo-por-medio-del-ataque-indirecto.md %}
+
+---
